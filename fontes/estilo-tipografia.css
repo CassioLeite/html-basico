@@ -1,0 +1,16 @@
+h1{
+	color: orange; /* Cor pode ser em hexadecimal. Ex: #ff6600*/
+	letter-spacing: -1px /* Espaçamento entre letras */
+	text-transform: lowercase; /* podemos usar 3 atributos: lowercase(escreve tudo minusculo, uppercase(tudo maiusculo) e o capitalize(Transforma a primeira letra de cada palavra em maiuscula))*/
+	width: 650px;
+	text-shadow: 1px 1px 1px black; /* O primeiro e segundo atributos são para posicionar a sombra, e o terceiro para controlar o desfoque */
+	font-family: 'Zilla Slab', serif; /* Fonte do Google fonts - Parte CSS */
+}
+
+.p1{
+	text-indent: 50px; /* Identação do paragrafo */
+	width: 650px;
+	text-align: left;
+	font-size: 18px;  
+	font-family: verdana, arial, sans-serif; /* Familia de fontes do site */
+}
